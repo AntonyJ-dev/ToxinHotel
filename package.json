@@ -1,0 +1,29 @@
+{
+  "name": "toxinhotel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonyJ-dev/ToxinHotel.git"
+  },
+  "keywords": [
+    "html",
+    "pug",
+    "sass",
+    "js"
+  ],
+  "author": "Anton Glazkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonyJ-dev/ToxinHotel/issues"
+  },
+  "homepage": "https://github.com/AntonyJ-dev/ToxinHotel#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
